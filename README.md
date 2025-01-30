@@ -27,7 +27,7 @@ npm install india-holiday-1.0
 Once installed, you can use this package in your Node.js project to check for holidays. Here’s a quick example:
 
 ```javascript
-const getHolidayMessage = require('india-holiday'); // Replace with your package name
+const getHolidayMessage = require('india-holiday-1.0'); // Replace with your package name
 
 // Test with a holiday date
 console.log(getHolidayMessage('2024-01-26', true)); // Should return "Happy Republic Day,"
