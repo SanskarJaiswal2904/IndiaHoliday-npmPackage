@@ -1,0 +1,29 @@
+{
+  "name": "india-holiday",
+  "version": "1.0.0",
+  "description": "A simple utility to check Indian holidays by date. Get festive greetings based on the current or given date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/SanskarJaiswal2904/IndiaHoliday-npmPackage.git)"
+  },
+"keywords": [
+  "india",
+  "holiday",
+  "festival",
+  "indian-holidays",
+  "holiday-checker",
+  "calendar",
+  "date",
+  "festivals",
+  "national-holidays",
+  "public-holidays",
+  "india-festival",
+  "regional-holidays"
+  ],
+  "author": "Sanskar",
+  "license": "ISC"
+}
