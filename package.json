@@ -1,6 +1,6 @@
 {
-  "name": "india-holiday",
-  "version": "1.0.0",
+  "name": "india-holiday-2.0",
+  "version": "1.0.1",
   "description": "A simple utility to check Indian holidays by date. Get festive greetings based on the current or given date.",
   "main": "index.js",
   "scripts": {
